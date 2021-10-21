@@ -1,6 +1,8 @@
-# MVC 
+# MVC
 
-Un **MVC** simple et efficace.
+Pourquoi avoir fait un mvc en PHP?
+Simplement pour avoir une structure prête à l'emploi sans difficulté d'installation. Il ne restera plus que la configuration de la connexion à la base de donnée,
+et paramêtrer le serveur pourqu'il pointe sur le dossier public. Un **MVC** simple et efficace.
 
 ## Pour commencer
 
@@ -27,11 +29,5 @@ Après rien de spéciale à faire car vous avez déjà  Bootstrap à l'intérieu
 ## Versions
 
 **Dernière version stable :** 1.0
+
 **Dernière version :**
-===================
-
-# *MVC* :
-
-Pourquoi avoir fait un mvc en PHP?
-Simplement pour avoir une structure prête à l'emploi sans difficulté d'installation. Il ne restera plus que la configuration de la connexion à la base de donnée,
-et paramêtrer le serveur pourqu'il pointe sur le dossier public.
